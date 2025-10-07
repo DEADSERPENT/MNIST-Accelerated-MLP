@@ -70,8 +70,8 @@ Follow these steps in your terminal.
 1.  **Clone the Repository**
     First, download the project files from GitHub.
     ```bash
-    git clone [https://github.com/hasan-a5/CUDA-Accelerated-MNIST-MLP.git](https://github.com/hasan-a5/CUDA-Accelerated-MNIST-MLP.git)
-    cd CUDA-Accelerated-MNIST-MLP
+    git clone git clone https://github.com/DEADSERPENT/MNIST-Accelerated-MLP.git
+    cd MNIST-Accelerated-MLP
     ```
 
 2.  **Set Up Python and Download Data**
