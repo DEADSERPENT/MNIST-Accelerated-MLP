@@ -70,7 +70,7 @@ Follow these steps in your terminal.
 1.  **Clone the Repository**
     First, download the project files from GitHub.
     ```bash
-    git clone git clone https://github.com/DEADSERPENT/MNIST-Accelerated-MLP.git
+    git clone https://github.com/DEADSERPENT/MNIST-Accelerated-MLP.git
     cd MNIST-Accelerated-MLP
     ```
 
